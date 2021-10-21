@@ -10,6 +10,6 @@ The standout highlight has been coding Ruby Command Line Chess. A real test that
 
 My aim is to work with a team and build something cool 😎 
 
-*UPDATE 2021* - Started a new role as a software developer! Working ASP.NET, C#, SQL, Vue.js, and more..
+*UPDATE 2021* - Started a new role as a software developer! Working with ASP.NET, C#, SQL, Vue.js, and more..
 
 I'd love to hear from you - christian@christianrobinson.dev
