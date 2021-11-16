@@ -8,8 +8,6 @@ So far I have learnt about HTML, CSS, JavaScript, Git, Ruby, TDD, Databases and 
 
 The standout highlight has been coding Ruby Command Line Chess. A real test that combined many different aspects of the Ruby course in to a final project.
 
-My aim is to work with a team and build something cool 😎 
-
 *UPDATE 2021* - Started a new role as a software developer! Working with ASP.NET, C#, SQL, Vue.js, and more..
 
 I'd love to hear from you - christian@christianrobinson.dev
