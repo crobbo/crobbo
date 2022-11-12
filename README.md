@@ -1,1 +1,3 @@
-Professional Software Developer - Portfolio projects on [robbo,dev](https://robb0.dev). 
+Professional Software Developer
+
+View my work at [robbo.dev](https://robbo.dev) 
