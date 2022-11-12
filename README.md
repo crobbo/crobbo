@@ -1,1 +1,1 @@
-Coding for 2 years, Professionally ~7 months
+Professional Software Developer - Portfolio projects on [robbo,dev](https://robb0.dev). 
